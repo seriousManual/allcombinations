@@ -22,4 +22,4 @@ for (var item of allcombinations([1, 2, 3])) {
 The number of possible combinations gets really big really fast (e.g. an array of 5 elements already has 120 possible permutations!).
 Thus it is not realistic (or even possible) to precalculate the complete range of permutations and subsequently return it. (memory and cpu consumption would be absolutely terrible)
 
-This little lazily calculates the combinations on demand therefore minimizing its memory footprint.  
+This little module lazily calculates the combinations on demand therefore minimizing its memory footprint.  
