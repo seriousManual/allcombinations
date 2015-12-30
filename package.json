@@ -6,6 +6,16 @@
   "scripts": {
     "test": "./node_modules/.bin/mocha test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/seriousManual/allcombinations.git"
+  },
+  "keywords": [
+    "combinations",
+    "permutations",
+    "permute",
+    "permutate"
+  ],
   "author": "Manuel Ernst <manuel.ernst@thomann.de>",
   "license": "MIT",
   "dependencies": {},
