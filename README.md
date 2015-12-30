@@ -3,7 +3,6 @@
 Calculates on demand all the possible combinations of the elements of a given array.
 
 ## Installation
-
 ````
 npm i allcombinations --save
 ````
