@@ -1,0 +1,19 @@
+{
+  "name": "allcombinations",
+  "version": "1.0.0",
+  "description": "returns a list of all possible combinations of an array of items",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test.js"
+  },
+  "author": "Manuel Ernst <manuel.ernst@thomann.de>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  },
+  "engines": {
+    "node": ">=4"
+  }
+}
