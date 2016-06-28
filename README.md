@@ -11,9 +11,7 @@ npm i allcombinations --save
 ````
 var allcombinations = require('allcombinations')
 
-for (var item of allcombinations([1, 2, 3])) {
-    console.log(item)
-}
+console.log(Array.from(allcombinations([1, 2, 3])))
 
 // [1, 2, 3],
 // [1, 3, 2],
