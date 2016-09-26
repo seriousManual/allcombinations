@@ -1,5 +1,9 @@
 # allcombinations [![Build Status](https://travis-ci.org/seriousManual/allcombinations.png)](https://travis-ci.org/seriousManual/allcombinations)
 
+[![NPM](https://nodei.co/npm/allcombinations.png)](https://nodei.co/npm/allcombinations/)
+
+[![NPM](https://nodei.co/npm-dl/allcombinations.png?months=3)](https://nodei.co/npm/allcombinations/)
+
 Calculates on demand all the possible combinations of the elements of a given array.
 
 ## Installation
