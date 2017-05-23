@@ -13,12 +13,12 @@ Thus it is not realistic (or even possible) to precalculate the complete range o
 With this generator approach the combinations are computed lazily which results in a minimal memory footprint.  
 
 ## Installation
-````
+````bash
 npm i allcombinations --save
 ````
 
 ## Usage
-````
+````javascript
 const allcombinations = require('allcombinations')
 
 let allCombinationsGenerator = allcombinations([1, 2, 3])
