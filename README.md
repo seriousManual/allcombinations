@@ -2,7 +2,7 @@
 
 [![NPM](https://nodei.co/npm/allcombinations.png)](https://nodei.co/npm/allcombinations/)
 
-[![NPM](https://nodei.co/npm-dl/allcombinations.png?months=6)](https://nodei.co/npm/allcombinations/)
+[![NPM](https://nodei.co/npm-dl/allcombinations.png?months=12)](https://nodei.co/npm/allcombinations/)
 
 Calculates on demand all possible combinations of the elements of a given array.
 For this to be efficient a ES2015 generator is utilized.
