@@ -1,9 +1,5 @@
 # allcombinations [![Build Status](https://travis-ci.org/seriousManual/allcombinations.png)](https://travis-ci.org/seriousManual/allcombinations)
 
-[![NPM](https://nodei.co/npm/allcombinations.png)](https://nodei.co/npm/allcombinations/)
-
-[![NPM](https://nodei.co/npm-dl/allcombinations.png?months=12)](https://nodei.co/npm/allcombinations/)
-
 Calculates on demand all possible combinations of the elements of a given array.
 For this to be efficient a ES2015 generator is utilized.
 
@@ -19,12 +15,12 @@ npm i allcombinations --save
 
 ## Usage
 ````javascript
-const allcombinations = require('allcombinations')
+const allcombinations = require('allcombinations');
 
-let allCombinationsGenerator = allcombinations([1, 2, 3])
+let allCombinationsGenerator = allcombinations([1, 2, 3]);
 
 for (var combination of allCombinationsGenerator) {
-    console.log(combination)
+    console.log(combination);
 }
 
 // [1, 2, 3]
